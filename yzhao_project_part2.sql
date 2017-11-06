@@ -1,6 +1,4 @@
-/*  CS 155A
-    yzhao_project_part2.sql 
-    Yan Zhao  Spring 2017 */ 
+/*  Maya Z Spring 2017 */ 
 
 \W  
 
